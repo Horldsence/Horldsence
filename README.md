@@ -19,6 +19,11 @@
 
 ## 📚**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Rust 异步开发与 slint ui 开发记录](http://localhost:8090/archives/rust-yi-bu-kai-fa-zhi-bei)
+- [小米手机能耗优化](http://localhost:8090/archives/xiao-mi-shou-ji-neng-hao-you-hua)
+- [Manjaro 装机分区表丢失造成硬盘丢失引导失败事故](http://localhost:8090/archives/manjaro-zhuang-ji-fen-qu-biao-diu-shi-zao-cheng-ying-pan-diu-shi-yin-dao-shi-bai-shi-gu)
+- [ESWIN-P550 RISCV 大模型开发记录](http://localhost:8090/archives/eswin-p550-riscv-da-mo-xing-kai-fa-ji-lu)
+- [DeepSeek-R1部署及应用记录](http://localhost:8090/archives/8b21fe40-d2ad-4edf-89ca-8837a4fa0072)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
