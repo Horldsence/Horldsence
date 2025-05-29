@@ -17,6 +17,10 @@
 - **AI Voice Assistant** - Real-time speech recognition and synthesis
 - **Local AI Models** - Implementing efficient inference with Candle framework
 
+&nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horldsence&hide=contribs,prs&show_icons=true&theme=synthwave)
 ![Metrics](/github-metrics.svg)
