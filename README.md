@@ -1,4 +1,4 @@
-# Hi there, I'm Horldsence! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8AACF7&width=435&lines=Hi+there%2C+I'm+Horldsence!+)](https://git.io/typing-svg) 👋
 
 ## 🚀 About Me
 - 🦀 Passionate **Rust Developer** building next-generation applications
@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horldsence&hide=contribs,prs&show_icons=true&theme=synthwave)
-
+![Metrics](/github-metrics.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horldsence)
 
 ## 🌟 Specialties
