@@ -17,7 +17,7 @@
 - **AI Voice Assistant** - Real-time speech recognition and synthesis
 - **Local AI Models** - Implementing efficient inference with Candle framework
 
-&nbsp;**Latest Blog Posts**
+## 📚**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
