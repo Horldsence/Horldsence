@@ -19,11 +19,11 @@
 
 ## 📚**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [将Halo博客从阿里云迁移至 MicroSoft Azure](http://localhost:8090/archives/cong-a-li-yun-qian-yi-zhi-microsoft-azure)
-- [Tauri 开发的事故](http://localhost:8090/archives/tauri-kai-fa-de-shi-gu)
-- [Rust 异步开发与 slint ui 开发记录](http://localhost:8090/archives/rust-yi-bu-kai-fa-zhi-bei)
-- [小米手机能耗优化](http://localhost:8090/archives/xiao-mi-shou-ji-neng-hao-you-hua)
-- [Manjaro 装机分区表丢失造成硬盘丢失引导失败事故](http://localhost:8090/archives/manjaro-zhuang-ji-fen-qu-biao-diu-shi-zao-cheng-ying-pan-diu-shi-yin-dao-shi-bai-shi-gu)
+- [将Halo博客从阿里云迁移至 MicroSoft Azure](https://www.pengheng.fun/archives/cong-a-li-yun-qian-yi-zhi-microsoft-azure)
+- [Tauri 开发的事故](https://www.pengheng.fun/archives/tauri-kai-fa-de-shi-gu)
+- [Rust 异步开发与 slint ui 开发记录](https://www.pengheng.fun/archives/rust-yi-bu-kai-fa-zhi-bei)
+- [小米手机能耗优化](https://www.pengheng.fun/archives/xiao-mi-shou-ji-neng-hao-you-hua)
+- [Manjaro 装机分区表丢失造成硬盘丢失引导失败事故](https://www.pengheng.fun/archives/manjaro-zhuang-ji-fen-qu-biao-diu-shi-zao-cheng-ying-pan-diu-shi-yin-dao-shi-bai-shi-gu)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
