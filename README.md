@@ -72,12 +72,12 @@ Building reliable software systems with focus on AI integration and cross-platfo
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Horldsence&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,prs&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horldsence&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Horldsence&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,prs&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horldsence&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Horldsence&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Horldsence&theme=dark&hide_border=true" />
 </p>
 
 ---
